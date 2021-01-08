@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Binus EzyFoody</string>
+    <string name="drinks">Drinks</string>
+    <string name="topup">TopUp</string>
+    <string name="myorder">MyOrder</string>
+    <string name="foods">Foods</string>
+    <string name="snacks">Snacks</string>
+    <string name="jus_alpukat">Jus Alpukat</string>
+    <string name="rp_123">Rp.123</string>
+    <string name="todo">TODO</string>
+    <string name="add">add</string>
+</resources>
